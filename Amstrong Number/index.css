@@ -1,0 +1,11 @@
+.point{
+    border:2px solid rgb(99, 96, 96);
+    height:200px;
+    width:400px;
+    margin-left:30%;
+    background-color:rgb(205, 222, 233);
+    padding:20px;
+}
+.some{
+    height:50px;
+}
