@@ -1,0 +1,21 @@
+*{
+    margin:0 ;
+    border: 0;
+    box-sizing: border-box;
+}
+.more button{
+    padding: 50px;
+    background-color: rgb(209, 108, 108);
+    border:4PX solid;
+    border-color: rgb(97, 240, 104);
+}
+.more{
+    grid-template-columns: auto auto auto;
+    display: inline-grid;
+    gap:20px;
+    padding-left: 700px;
+    padding-top: 100px;
+}
+h1{
+    padding-left: 750px;
+}
